@@ -36,12 +36,16 @@ To run the program, follow these steps:
 2. Build the program with cmake
 
     `cd build`
+    
     `cmake ../`
+    
     `cd ..`
+    
     `cmake -B .\build --target all -j 8`
 
 3. Run the program
 
     `cd build`
+    
     `.\Simulator [Input_file] [Output_file]`
 
