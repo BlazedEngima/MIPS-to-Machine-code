@@ -1,4 +1,4 @@
-# MIPS-Assembler
+# MIPS-to-Machine-Code
 
 A program that assembles MIPS instructions into machine code
 
